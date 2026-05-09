@@ -1,4 +1,4 @@
-package org.firmas;
+package org.firmas.adapter.port.in;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
